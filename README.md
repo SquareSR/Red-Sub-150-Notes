@@ -388,7 +388,7 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 | 22+          | BB + Thrash                 |
 
 
-#### Fly Split Red Bar (risky)
+#### Fly Split Red Bar
 
 | HP @ L28   | Strategy                        |
 | ---------- | ------------------------------- |
