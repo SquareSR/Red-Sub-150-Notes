@@ -85,7 +85,7 @@ Pewter Mart:
 - Toss Antidote (if you still have it)
 
 #### Shorts Guy
-- Rat: [1-15 Potion]
+- Rat: [1-9 Potion; 1-15 if @-1 or good pace]
 	- Leer + HA x2
 - Ekans: [1-3 Potion; 1-4 if @-1; 1-5 @-2]
 	- Leer + HA x2
@@ -130,7 +130,7 @@ Pewter Mart:
 - <img src="https://i.imgur.com/dk5eT3x.png" width = "300">
 
 #### Mt. Moon Man:
-- Rattata: [1-16 Potion]
+- Rattata: [1-9 Potion]
 	- **HA x2 (+PS)**
 - Zubat:
 	  - 3 HA --> **HA x3**
@@ -246,9 +246,9 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 
 | HP @ L23 | Healing Strategy       |
 | -------- | ---------------------- |
-| 1-7      | 3 Potion or Center     |
-| 8-28     | 2 Potion               |
-| 27-47    | 1 Potion               |
+| 1-14     | 3 Potion or Center     |
+| 15-34    | 2 Potion               |
+| 35-54    | 1 Potion               |
 
 > Try not to go under 2 Potions      
 > Center if pace is very good       
