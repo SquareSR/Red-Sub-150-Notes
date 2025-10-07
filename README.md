@@ -399,6 +399,8 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 | 39-43      | 1st Slowpoke: BB x2 + TB        |
 | 44+        | TB Cubone and Thrash Slowpoke   |
 
+> 23-31: Can do 2nd Slowpoke: BB + TB instead if either you crit 1st Slowpoke or Cubone misses Bone Club Turn 1
+
 ## Rock Tunnel
 
 <img src="https://i.imgur.com/gs5N4V5.png">
