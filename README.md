@@ -62,10 +62,11 @@ Pewter Mart:
   - **Potion** immediately if hit by wrap at any HP
   - 1-3 HP: Potion; 1-4 if @-1; 1-5 @-2
    
-> BC2 Weedle      
-> Tackle turn 2 only if high roll into string shot hit     
-> <img src="https://i.imgur.com/ic8Y6a9.png" width="150">        
-> Always Tackle turn 2 if HP bar is lower than this          
+> BC2 Weedle:      
+> If decent HA roll into SS, then Tackle Turn 2.      
+> Always Tackle turn 2 if HP is as shown below (favorable range)       
+> <img src="https://i.imgur.com/ic8Y6a9.png" width="150">      
+> Use HA turn 2 whenever in doubt.          
 
 #### Bug Catcher 2
 - Weedle: HA x2
