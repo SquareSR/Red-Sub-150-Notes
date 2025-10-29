@@ -1,30 +1,9 @@
-# Race Route - 6 Repel & 2 Max Ether
-
-### Resources 
-- [Safety-oriented HP Strats for races](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/hp-strats-for-races)
-- [HP Strats - Advanced](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/hp-strats)
-- [Defensive Ranges](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/defensive-ranges)
-- [Offensive Ranges - click to expand HP bar images](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/offensive-ranges)
-
-## Pallet Town                        
-                                        
-**Rival 1:**
-- TW + spam Tackle
-
-> **L6 Squirtle Stats**      
-> 10 ATK --> TW x3 on Weedle Guy     
-> 11 SPC --> likely bad Special     
-                                       
-## Parcel Quest
-
-- KO one L2 or L3 encounter by spamming Tackle to get EXP.
-
-## Viridian City
+## Rival 1 / Nidoran
 
 Viridian Mart:
 - Buy **4 Poke Balls**
 
-**Nidoran Manip**
+**Do Nido Manip**
 
 - Get the [hidden Tree Potion](https://gunnermaniac.com/pokeworld?map=1#54/166)
 
@@ -33,17 +12,12 @@ Viridian Mart:
 - Get the **Antidote**
 
 **Weedle Guy:** [1-4 HP: Potion]
-- TW x2-3 + spam Tackle
-    - TW x3 if Bad ATK (10 ATK @L6)
+- TW x2 + spam Tackle
 
-> **L8 Squirtle Stats**         
-> Defense is **15-17**     
-> **Special** is **13** or **14-15**     
-> **13 SPC --> Bad Special**    
-
-Forest Menu:
+**Forest Menu**:
 - Swap Nido and Squirtle
-- 1-10 HP: **Potion**
+- 1-14 HP: **Potion**
+- 15+ HP: Don't Heal
 - **Antidote** (use or toss)
 
 ## Pewter City
@@ -51,45 +25,42 @@ Forest Menu:
 Pewter Mart:
 - Buy **8 Potions**
 
-#### Before Brock:
-
-> Assume bad defense (15 DEF @L8) if you're not sure.
-
 #### When to Potion on Brock:
-| **L8 DEF**  |  **Geodude** |     | **Onix**  | after 1 Screech |
-| ----------- | ------------ | --- | --------- | --------------- |
-|   **15**    |     1-8     |     |   1-7      |      1-14       |
-|   **16**    |     1-7     |     |   1-6      |      1-14       |
-|   **17**    |     1-7     |     |   1-6      |      1-12       |
+|  **Geodude** |     | **Onix**  | after 1 Screech |
+| ------------ | --- | --------- | --------------- |
+|     1-7     |     |   1-6      |      1-14       |
 
 **Brock:**
-- Geodude: Swap to Squirtle + Bubble x2-3
-	- Say yes, swap back to Nido
-- Onix: Swap back to Squirtle + Bubble x2-3
-	- Turn 1 Bide --> TW x2
+- Geodude:
+   - Swap + Bubble spam
+   - 1-8 HP: Potion
+- Onix:
+   - Swap + Bubble spam (TW x2 if turn-1-Bide)
+   - 1-6 HP: Potion (1-14 after screech)
 
 **Options**: Battle Style to **Set** before leaving Brock's gym
 
 ## Route 3
 
+> Finish with Tackle if a range is missed.
+
 #### Bug Catcher 1
 - Caterpie:
-	- Leer + HA x2 (+ Tackle)
+	- Leer + HA x2
 - Weedle: [1-9 Potion]
-    - Leer + Tackle + either Tackle x2 or HA
+    - Leer + Tackle x3
 - Caterpie:
-     - Leer + Tackle + HA (+ Tackle)
+     - Leer + Tackle + HA
 
 #### Menu before Shorts Guy
 - Potion to 28+ HP
-- Toss Antidote (if you still have it)
 
 #### Shorts Guy
-- Rat: [1-9 Potion; 1-15 if @-1 or good pace]
-	- Leer + HA x2
-- Ekans: [1-3 Potion; 1-4 if @-1; 1-5 @-2]
-	- Leer + HA x2
-		- in general, **Potion** immediately after turn 1 of Wrap hit
+- Rat: Leer + HA x2
+   - 1-9 Potion; 1-15 if @-1 (or on good pace)
+- Ekans: Leer + HA x2
+  - **Potion** immediately if hit by wrap at any HP
+  - 1-3 HP: Potion; 1-4 if @-1; 1-5 @-2
    
 > BC2 Weedle      
 > Tackle turn 2 only if high roll into string shot hit     
@@ -97,28 +68,22 @@ Pewter Mart:
 > Always Tackle turn 2 if HP bar is lower than this          
 
 #### Bug Catcher 2
-- **Weedle**:
-	- HA + HA/Tackle
-- **Kakuna**:
-	- HAx2-3 + Tackle x1-2
-- **Caterpie**: [1-5 Potion]
-    - HA x2 (only Tackle turn 2 if hit by 2 stringshot before 1st HA hits)
-- **Metapod**:
-	- HA x2 + Tackle (only HA turn 3 if you were slower than Metapod & have 9+ HAs left; otherwise Tackle turn 3)
+- Weedle: HA x2
+- Kakuna: HA x2-3 + Tackle x1-2
+- **Caterpie**: HA x2
+   - Tackle turn 2 only if 2 SS before 1st HA hits
+   - 1-3 HP: Potion on Caterpie
+- Metapod: HA x2 + Tackle 
 
 > 1-3 HP: **Potion** before the next fight
 
 #### Bug Catcher 3
-- Caterpie:
-    - HA x2
-- Metapod:
-    - HA x3-4 + Tackle x1-2 (switch to spamming Tackle if only 3 HAs are left) 
+- Caterpie: HA x2
+- Metapod: HA x3-4 + Tackle x1-2
 
-#### Catch a flyer (never use HA on a bird)
-- **Bird**:
-	- **Tackle**, then throw balls
-- **L8 Pidgey**:
-	- **Leer + Tackle**, then throw balls
+#### Catch a flyer 
+- **L8 Pidgey**: **Leer** + **Tackle**
+- Any other Bird: **Tackle**
 
 #### Moon Manip Save Menu:
 - **Heal to 36+ HP before saving.** 
@@ -130,19 +95,20 @@ Pewter Mart:
 - <img src="https://i.imgur.com/dk5eT3x.png" width = "300">
 
 #### Mt. Moon Man:
-- Rattata: [1-9 Potion]
+- Rattata: HA x2 (+PS)
+  - 1-9 HP: Potion
 	- **HA x2 (+PS)**
 - Zubat:
-	  - 3 HA --> **HA x3**
-    - 2 HA --> **Leer + HA x2**
-    - 1 HA --> Leer + Tackle + HA (+ Tackle)
+   - 3 HA: **HA x3**
+   - 2 HA: **Leer + HA x2**
+   - 1 HA: **Leer + Tackle + HA**
 
 #### Moon Man's Zubat (When to Potion)
 | DEF  | Not confused  | Confused      |
 | ---- | ------------- | ------------- |
 | -0   |      1-7      |     1-16      |
 | -1   |      1-11     |     1-26      |
-| -2   |      1-13     | Yolo or swap to a low-HP-mon |
+| -2   |      1-13     |     yolo      |
 
 
 Menu 1-2 steps after defeating Moon Man:
@@ -159,7 +125,7 @@ Menu 1-2 steps after defeating Moon Man:
 
 **Super Nerd**:
 - Grimer:
-	- MP + WG or HA/MP
+	- MP + WG or HA or MP
 - Voltorb:
 	- MP + PS
 - Koffing: (WG turn 2 if turn 1 crit)
@@ -206,7 +172,7 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 **Mankey:** 
 | HP    | Strategy               |
 | ----- | ---------------------- |
-| 1-7   | MP (+PS) or Potion     |
+| 1-7   | MP (+PS) or Potion turn 1 (do not reget IT) |
 | 8-15  | HA + HA/PS or MP (+PS) |
 | 15+   | HA + HA/PS             |
 
@@ -219,7 +185,6 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 **Bottom Hiker:**
 - WG
 
-
 **Lass:**
 - MP
 - HA x2
@@ -229,7 +194,7 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
    - WG
 - Geodude 2
    - WG
-- Machop
+- **Machop**
    - MP (+ PS)
    - or HA + PS, if 16-20 HP
 - Geodude 3
@@ -243,17 +208,15 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 - MP (or HA w/Moon Exp)
 	- Teach Thrash over WG (slot 2)
 
+> Center after Bill or Potion to ~65+ HP if good pace (-45 seconds or better)
 
-| HP @ L23 | Healing Strategy       |
-| -------- | ---------------------- |
-| 1-14     | 3 Potion or Center     |
-| 15-34    | 2 Potion               |
-| 35-54    | 1 Potion               |
+| HP @ L23 | Risky Healing Strategies  |
+| -------- | ------------------------- |
+| 1-14     | 3 Potion                  |
+| 15-34    | 2 Potion                  |
+| 35-54    | 1 Potion                  |
 
-> Try not to go under 2 Potions      
-> Center if pace is very good       
-
-Menu after Bill:
+**Bill Menu**:
 - Use Slot 1 - **Potion x1-3** (or Center)
 - Use Slot 5 - **Rare Candy**
 - Use Slot 3 - **Escape Rope**
@@ -262,21 +225,16 @@ Menu after Bill:
 
 - Get Instant Text again.
 
-**Dig Rocket:**
-- Thrash x1-2
-- Thrash x1-2
+**Dig Rocket:** Thrash
 
-**Jr Trainer F:**
-- Thrash x2
+**Jr Trainer F:** Thrash
 
-> If somehow under 23 HP, Potion before Misty. Get IT back afterwards.
+> If somehow under 23 HP, Potion x1 before Misty. Get IT back after Misty.
 
 **Misty**:
-- Staryu:
-    - Thrash x1
-- Starmie:
-    - Thrash x2-3
-	- Confused after X-Defend --> **swap to Bird** and let it be KO'd if pace allows.
+- Staryu: Thrash x1
+- Starmie: Thrash x2-3
+   - Confused after X-Defend --> **swap to Bird** and let it be KO'd if pace allows.
 
 ## After Misty
 
@@ -290,11 +248,9 @@ Menu after Bill:
 
 ## Route 6
 
-**Jr Trainer F:**
-- Thrash x3
+**Jr Trainer F:** Thrash
 
-**Jr Trainer M:**
-- Thrash x2
+**Jr Trainer M:** Thrash
 
 ## Vermilion City
 
@@ -306,11 +262,13 @@ Before Boat Rival:
 	- HA x2 
 - Raticate:
 	- 1-6 HP ---> **Potion**
-  - 7-22 HP --> **MP**
+  - 7-22 HP --> **MP** (or Thrash if only 0-1 MP left)
 	- 23+ HP --- > **HA x2**
 - Kadabra:
 	- 1-6 HP --> **HA Kadabra** & **Potion turn 1 on Ivysaur**, then **Thrash Ivy**
-	- 7+ HP ---> **Thrash** 
+	- 7+ HP ---> **Thrash**
+ - Ivy:
+  - Thrash x2
 
 Talk to the Captain to get HM01.
 
@@ -340,14 +298,15 @@ Do Cans Manip
 
 **Surge**
 - Voltorb:
-	- 1-20 HP --> **Thrash**
-	- 21+ HP ---> **BB x2**
+   - 1-20 HP: **Thrash**
+   - 21-24 HP: **HA + BB**
+   - 25+ HP: **BB x2**
 - Pikachu:
-	- Thrash
-    - Pika QA is 4 reg or 6-7 crit
+	 - Thrash
+   - Pika QA is 4 reg or 6-7 crit
 - Raichu:
-	- Thrash x2
-    - Swap to Bird or Squirtle only if dead to hit self
+   - Thrash x2
+   - Swap to Bird or Squirtle only if dead to hit self (see below)
 
 </td><td>
 
@@ -385,7 +344,7 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 | ------------ | --------------------------- |
 | 1-14         | BB + Thrash                 |
 | 15-19        | BB x4                       |
-| 22+          | BB + Thrash                 |
+| 20+          | BB + Thrash                 |
 
 
 #### Fly Split Red Bar
@@ -399,7 +358,8 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 | 39-43      | 1st Slowpoke: BB x2 + TB        |
 | 44+        | TB Cubone and Thrash Slowpoke   |
 
-> 23-31: Can do 2nd Slowpoke: BB + TB instead if either you crit 1st Slowpoke or Cubone misses Bone Club Turn 1
+> 23-31 HP: If you crit 1st slowpoke (@ 23-27) or got Cubone Bone Club Miss turn 1 (@28-31),            
+> then Strategy = 2nd Slowpoke: BB + TB          
 
 ## Rock Tunnel
 
@@ -469,7 +429,8 @@ Take the elevator and get HM02 (Fly)
 
 **Lavender Tower Rival:**
 
-> Pidgeotto QA is reg 7-8; crit 15-17 (ignoring 1/39 rolls)  
+> Pidgeotto QA is reg 7-8; crit 15-17 (ignoring 1/39 rolls)     
+> Avoid using your last potion, either yolo or use Super Potion instead.
 
 - Pidgeotto:
    - **1-8** HP: **Potion**, (Up 4 X Accuracy only if Sand attack hits), **TB**
@@ -479,20 +440,17 @@ Take the elevator and get HM02 (Fly)
 - Kadabra: Thrash x1
 - Ivy: Thrash x2
 
-**Channeler 1:**
-- RS x2
+**Channeler 1:** RS x2
 
-- Get the Elixer and the hidden Elixer.
+> Get the Elixer and the hidden Elixer.
 
-**Channeler 2:**
-- RS
+**Channeler 2:** RS
 
-**Channeler 3:**
-- RS
+**Channeler 3:** RS
 
-Pick up the Rare Candy.
+> Get the Rare Candy
 
-Menu before Ghost:
+**Menu before Ghost**:
 - S2 - teach **TM07** (HD) over Slot 1 (RS)
 
 **Ghost Encounter:**
@@ -500,14 +458,13 @@ Menu before Ghost:
 - d3 use **Poke Doll**
 
 **Rocket 1:**
-- TB x3 (+ BB)
+- TB, TB, TB (+ BB)
 
 **Rocket 2:**
 - X Accuracy + HD x2
 
 **Rocket 3:**
-- TB x2
-- Thrash
+- TB, TB, Thrash
 
 Get the Poke Flute and Fly (D1) to Celadon.
 
@@ -522,7 +479,7 @@ Enter Silph Co and take the stairs to the 5th Floor
 **Rocket w/Arbok:**
 - Thrash x2-3
 
-> If under 90 HP and Parlyzed: Menu + use **Parlyz Heal** Slot 5 before the next fight.      
+> If under ~80 HP and Parlyzed: Menu + use **Parlyz Heal** Slot 5 before the next fight.      
 > otherwise: delay using Para Heal until in the next fight.     
 
 Get the Card Key
@@ -553,12 +510,12 @@ Get the Card Key
 - Marowak:
     - HD
 
-> Consider healing to 16+ HP, but don't use your last potion. 
+> Consider healing to 16+ HP if needed, but don't use your last potion. 
 
 **Giovanni:**
 - **X Accuracy** + HD
 - HD
-- BB
+- Rhyhorn: **BB**
 - HD
 
 Go back to the elevator and go to the 10th Floor to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
@@ -730,13 +687,13 @@ Menu after leaving the gym and hopping the ledge:
 Menu before the Nido grass (cursor is on items):
 - Use **Super Repel** - Slot 3
 
-> This next fight is simpler in PB attempts since we can:       
+> This next fight (Viridian Rival) is simple in PB attempts since we can:       
 > **Turn 1: X Accuracy**; **Turn 2: X Speed**; then **Blizz (+TB)**       
 > **then HD spam the rest**       
  
 **Viridian Rival:**
 - **Pidgeot**:
-    - **X Accuracy** + **X Speed** + Blizz + TB
+    - **X Accuracy** + **X Speed** + Blizz (+TB)
 - Rhyhorn: HD x5
 
 ## Badge Check
@@ -795,8 +752,8 @@ Boulder #4 *after droping through the hole*:
 - Golbat: **Blizz**
     - Haze notes:
         - TB x2 on Golbat if you miss Blizz into Haze
-        - 1-24 HP: yolo (or Full Restore [3 below HM03] on Arbok if you have one)
-        - 25-60 HP: consider FR or Super Potion on Arbok (Para Heal if Glared)
+        - 1-24 or 61+ HP: yolo
+        - 25-60 HP: use **X Speed**
 - EQ x3
 
 HP      | ITEMS
@@ -828,11 +785,16 @@ HP      | ITEMS
 #### Lance:
 - **Gyarados**:
     - **Slot 3 - X Special**
-	- **TB**
-- Dragonair 1: **Blizz**
-- Dragonair 2: **d1 X Speed** + **Blizz**
-- Aerodactyl: **TB**
-- Dragonite: **Blizz**
+    - **TB**
+- Dragonair 1:
+    - **Blizz**
+- Dragonair 2:
+    - **d1 X Speed** (if zero X Speeds, then use an X Special instead)
+    - **Blizz**
+- Aerodactyl:
+    - **TB**
+- Dragonite:
+    - **Blizz**
 
 HP     |      Standard Strat    | Alternate Strat
 ------ | ---------------------- | --------------------------------
