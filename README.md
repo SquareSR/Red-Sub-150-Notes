@@ -28,7 +28,7 @@ Pewter Mart:
 #### When to Potion on Brock:
 |  **Geodude** |     | **Onix**  | after 1 Screech |
 | ------------ | --- | --------- | --------------- |
-|     1-7     |     |   1-6      |      1-14       |
+|     1-7     |     |   1-6      |      1-13       |
 
 **Brock:**
 - Geodude:
