@@ -27,9 +27,9 @@
 - Buy **8 Potions**
 
 #### Brock:
-- Geodude [1-7 Potion]
+- Geodude: [1-7 Potion]
    - Swap + Bubble spam
-- Onix [1-6 Potion; 1-13 after Screech]
+- Onix: [1-6 Potion; 1-13 after Screech]
    - Swap + Bubble spam
    - (TW x2 if turn-1-Bide)
 
