@@ -89,9 +89,8 @@
 - <img src="https://i.imgur.com/dk5eT3x.png" width = "300">
 
 #### Mt. Moon Man:
-- Rattata: HA x2 (+PS)
-  - 1-9 HP: Potion
-	- **HA x2 (+PS)**
+- Rattata: [1-9 Potion]
+  - **HA x2 (+PS)**
 - Zubat:
    - 3 HA: **HA x3**
    - 2 HA: **Leer + HA x2**
@@ -104,7 +103,6 @@
 | -1   |      1-11     |     1-26      |
 | -2   |      1-13     |     yolo      |
 
-
 Menu 1-2 steps after defeating Moon Man:
 - Toss Pokeballs (if you haven't already & have a Paras)
 - use **Rare Candy**
@@ -115,15 +113,14 @@ Menu 1-2 steps after defeating Moon Man:
 > If you encounter a Paras or a Geodude, KO it for EXP (PS for Paras, WG for Geodude).      
 > This [Moon EXP](https://docs.google.com/document/d/1ZHm2fto6N0BR9_HupIvUaTnefH38pIztrLcEZwV_NYs/edit?usp=sharing) will improve Bridge ranges, let you HA both Bridge Zubat, + usually Thrash 2nd Oddish before Bill.        
 
-- Talk to the Nerd
-
-**Super Nerd**:
+#### Super Nerd:
 - Grimer:
-	- MP + WG or HA or MP
+	- MP + WG (or MP/HA)
 - Voltorb:
 	- MP + PS
-- Koffing: (WG turn 2 if turn 1 crit)
+- Koffing:
 	- MP x2 or HA + MP
+    - WG turn 2 if turn 1 crit
 
 
 If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
@@ -134,12 +131,10 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 
 ## Nugget Bridge
 
-- Use the center.
-- Get Instant Text.
+- Use the Center and get Instant Text.
 - Pick up the [hidden Rare Candy](http://gunnermaniac.com/pokeworld?map=1#235/44)
 
-**Bridge Rival:**
-
+#### Bridge Rival:
 - **Pidgeotto**:
     - HA x2 + HA or MP
 - **Abra**: HA
@@ -163,7 +158,7 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 - MP (+ PS)
 - HA x2
 
-**Mankey:** 
+#### Mankey:
 | HP    | Strategy               |
 | ----- | ---------------------- |
 | 1-7   | MP (+PS) or Potion turn 1 (do not reget IT) |
@@ -228,7 +223,7 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 **Misty**:
 - Staryu: Thrash x1
 - Starmie: Thrash x2-3
-   - Confused after X-Defend --> **swap to Bird** and let it be KO'd if pace allows.
+   - Confused after X-Defend --> **swap to Bird** and let it be KO'd if pace allows otherwise yolo w/ Thrash
 
 ## After Misty
 
@@ -249,20 +244,20 @@ If you still need Paras: [Post Nerd Backup Paras](https://pokemon-speedrunning.g
 ## Vermilion City
 
 Before Boat Rival:
-- Potion to 13+ HP before Boat Rival (worth losing IT to not be mega dead)
+- Potion to 13+ HP before Boat Rival (always worth losing IT to not be mega dead)
 
-**Boat Rival:** 
+#### Boat Rival:
 - Pidgeotto:
 	- HA x2 
 - Raticate:
-	- 1-6 HP ---> **Potion**
-  - 7-22 HP --> **MP** (or Thrash if only 0-1 MP left)
-	- 23+ HP --- > **HA x2**
+	- 1-6 HP: **Potion**
+    - 7-22 HP: **MP** (or Thrash if only 0-1 MP left)
+	- 23+ HP: **HA x2**
 - Kadabra:
-	- 1-6 HP --> **HA Kadabra** & **Potion turn 1 on Ivysaur**, then **Thrash Ivy**
-	- 7+ HP ---> **Thrash**
+	- 1-6 HP: **HA Kadabra** & **Potion turn 1 on Ivysaur**, then **Thrash Ivy**
+	- 7+ HP: **Thrash**
  - Ivy:
-  - Thrash x2
+    - Thrash x2
 
 Talk to the Captain to get HM01.
 
@@ -272,25 +267,25 @@ Depending of your HP, you may fight the Gentleman in [the 3rd Cabin from the Rig
 | --------- | ------------------------------------------------- |
 | under 9   | Gentleman Candy (3rd door from the Right side)    |
 
-**Vermillion Mart**:
+#### Vermillion Mart:
 - Sell
     - S2 TM34
     - S3 Nugget
-    - (Slot 7 Full Restore, if you have it)  
+    - (S7 Full Restore, if you have it)  
 - Buy
     - 6 Repel 
     - 3 Parlyz Heal
 
-**Cut Menu**:
+#### Cut Menu:
 - Teach **TM11** (BB) over Slot 4 (PS)
 - use Rare Candy, if you fought the Gentleman
 - Teach **HM01** (Cut) to Paras
 - Up 1 - Teach **TM28** (Dig) to Paras
 - Use Cut
 
-Do Cans Manip
+#### Do Cans Manip
 
-**Surge**
+#### Surge:
 - Voltorb:
    - 1-20 HP: **Thrash**
    - 21-24 HP: **HA + BB**
@@ -317,29 +312,26 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 
 - Get the Bike and exit shop.
 
-**Bike Menu**:
+#### Bike Menu:
   - Swap Slot 1 - **Potion**, d7 w/ Bike
   - Up 1 Teach **TM24** (TB) over Slot 3 (HA)
   - Bike
 
-## Route 9
-
-> Quick Reference     
-> Slot 5: Repel      
-> Slot 6: Parlyz Heal     
-> Slot 7: Potion        
-
-**4 Turn Thrash Girl:**
+#### 4 Turn Thrash Girl:
 - MP
 - Thrash x3
 
-**Venonat Trainer:**
+#### Venonat Trainer:
 | HP           | Strategy                    |
 | ------------ | --------------------------- |
 | 1-14         | BB + Thrash                 |
 | 15-19        | BB x4                       |
 | 20+          | BB + Thrash                 |
 
+> Quick Reference     
+> Slot 5: Repel      
+> Slot 6: Parlyz Heal     
+> Slot 7: Potion        
 
 #### Fly Split Red Bar
 
@@ -347,7 +339,7 @@ Exit gym, Cut the tree, get the Bike Voucher, and Dig out.
 | ---------- | ------------------------------- |
 | 1-19       | play normal                     |
 | 20-22      | 1st Slowpoke: BB + TB           |
-| 23-27      | 1st Slowpoke: Thrash            |
+| **23-27**  | **1st Slowpoke: Thrash**        |
 | 28-38      | Cubone: TB + BB                 |
 | 39-43      | 1st Slowpoke: BB x2 + TB        |
 | 44+        | TB Cubone and Thrash Slowpoke   |
