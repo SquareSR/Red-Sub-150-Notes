@@ -11,11 +11,11 @@
              
 - Get the **Antidote**
 
-#### Weedle Guy
+#### Weedle Guy:
 - TW x2 + spam Tackle
 - 1-4 HP: Potion (1-6 on good pace)
 
-**Forest Menu**:
+#### Forest Menu:
 - Swap Nido and Squirtle
 - 1-14 HP: **Potion**
 - 15+ HP: Don't Heal
