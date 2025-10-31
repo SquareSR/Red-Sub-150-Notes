@@ -1,9 +1,9 @@
 ## Rival 1 / Nidoran
 
-Viridian Mart:
+#### Viridian Mart
 - Buy **4 Poke Balls**
 
-**Do Nido Manip**
+#### Do Nido Manip
 
 - Get the [hidden Tree Potion](https://gunnermaniac.com/pokeworld?map=1#54/166)
 
@@ -11,8 +11,9 @@ Viridian Mart:
              
 - Get the **Antidote**
 
-**Weedle Guy:** [1-4 HP: Potion]
+#### Weedle Guy
 - TW x2 + spam Tackle
+- 1-4 HP: Potion (1-6 on good pace)
 
 **Forest Menu**:
 - Swap Nido and Squirtle
@@ -25,18 +26,13 @@ Viridian Mart:
 Pewter Mart:
 - Buy **8 Potions**
 
-#### When to Potion on Brock:
-|  **Geodude** |     | **Onix**  | after 1 Screech |
-| ------------ | --- | --------- | --------------- |
-|     1-7     |     |   1-6      |      1-13       |
-
-**Brock:**
+#### Brock:
 - Geodude:
    - Swap + Bubble spam
-   - 1-8 HP: Potion
+   - 1-7 HP: Potion
 - Onix:
    - Swap + Bubble spam (TW x2 if turn-1-Bide)
-   - 1-6 HP: Potion (1-14 after screech)
+   - 1-6 HP: Potion (1-13 after screech)
 
 **Options**: Battle Style to **Set** before leaving Brock's gym
 
