@@ -1,10 +1,13 @@
-# PB Attempt Route - 6 Repel & 2 Max Ether
+# Red Any% Glitchless Intermediate Notes - 6 Repel & 2 Max Ether
 
 ### Resources 
 - [Safety-oriented HP Strats for races](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/hp-strats-for-races)
 - [HP Strats - Advanced](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/hp-strats)
 - [Defensive Ranges](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/defensive-ranges)
 - [Offensive Ranges - click to expand HP bar images](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/offensive-ranges)
+- [Red Glitchless FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq)
+- [Red RNG Manips](https://docs.google.com/document/d/1AnQ97LgxRWtiiQ3ZOy36vAQcMknasPyB7-YRi8Jo90s/edit?usp=sharing)
+- [Paths & Locations for Red Speedruns](https://docs.google.com/document/d/13DdnuuqsqAS5s842oWmiNi0_PHI93hf_Uu8ew1go9gE/edit?usp=sharing)
 
 ## Pallet Town                        
                                         
