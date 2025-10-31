@@ -712,11 +712,14 @@ Boulder #4 *after droping through the hole*:
 
 - Deposit Squirtle and Paras
 
-**Lorelei:**
+## Lorelei
+
 - Dewgong:
 	- Swap to the bird turn 1
 	- Swap back to Nido and **X Accuracy**
 	- HD x5
+
+## Bruno
 
 > Backup Boom Strat note:     
 > **If you lost red bar during Lorelei**, then skip the Menu before Bruno       
@@ -727,6 +730,8 @@ Boulder #4 *after droping through the hole*:
 
 **Bruno:**
 - **X Accuracy** + HD x5
+
+## Agatha
 
 **Menu before Agatha**:
 - Slot 7 - **Super Potion x2**
@@ -741,6 +746,8 @@ Boulder #4 *after droping through the hole*:
         - 1-24 or 61+ HP: yolo
         - 25-60 HP: use **X Speed**
 - EQ x3
+
+## Lance
 
 HP      | ITEMS
 ------- | ---------------------------
@@ -760,13 +767,12 @@ HP      | ITEMS
 
 > Does not matter which Dragonair you X Speed on. 
 
-#### Lance Gyarados Turn 2 if Hydro Pump Misses
+#### Lance Gyarados Turn 2 if Hydro Pump Misses (and you need red bar)
 
-| HP      | Strategy                          |
-| ------- | --------------------------------- |
-| 126-133 | d1 X Speed                        |
-| 134+    | EQ (or X Acc if you have 2 left)  |
-| any HP  | use TB if you do not need red bar |
+| HP      | Stall after Hydro Pump Miss Strategy |
+| ------- | ------------------------------------ |
+| 126-133 | d1 X Speed                           |
+| 134+    | EQ (or X Acc if you have 2 left)     |
 
 #### Lance:
 - **Gyarados**:
@@ -782,6 +788,8 @@ HP      | ITEMS
 - Dragonite:
     - **Blizz**
 
+## Champion
+
 HP     |      Standard Strat    | Alternate Strat
 ------ | ---------------------- | --------------------------------
 4-17   |       Potion           | Super Potion
@@ -792,18 +800,18 @@ Any HP | Heal to 45+ for safety | or yolo if required
 
 **Menu before Champ**:
 - Heal to 22+ or 45+ HP
-- (Only Save if you have either zero Revives or only one X Accuracy left.)
 
 **Champion:**
-- Pidgeot Turn 1: **X Special**
+- Pidgeot Turn 1:
+    - use **X Special**
 - Pidgeot Turn 2: 
 	- If Pidgeot does NOT use Sky Attack turn 1:
-		- Pidgeot: **UP 1 X Acc** + HD
-		- Alakazam: HD
-		- Rhydon: HD
-		- **Gyarados**: **Thunderbolt**
-		- Arcanine: HD
-		- Venusaur: HD
+		- Pidgeot: **UP 1 X Acc** + **HD**
+		- Alakazam: **HD**
+		- Rhydon: **HD** (or Blizz w/out red bar)
+		- Gyarados: **Thunderbolt** (or HD, if Blizz Rhydon)
+		- Arcanine: **HD**
+		- Venusaur: **HD**
 	- If Pidgeot begins to use Sky Attack turn 1 (*Pidgeot is glowing*):
 		- Pidgeot: **Blizz**
 		- Alakazam: **EQ**
