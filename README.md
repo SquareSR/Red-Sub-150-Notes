@@ -53,7 +53,7 @@
   - Leer + HA x2
 - Ekans: [1-3 HP: Potion; 1-4 if @-1; 1-5 @-2]
   - Leer + HA x2
-  - **Potion** immediately if hit by wrap at any HP
+  - **Potion** immediately if hit by Wrap and dead to a 5 turn
    
 > BC2 Weedle:      
 > If decent HA roll into SS, then Tackle Turn 2.      
@@ -64,9 +64,9 @@
 #### Bug Catcher 2
 - Weedle: HA x2
 - Kakuna: HA x2-3 + Tackle x1-2
-- **Caterpie**: HA x2
+- **Caterpie**: [1-3 Potion]
+   - HA x2
    - Tackle turn 2 only if 2 SS before 1st HA hits
-   - 1-3 HP: Potion on Caterpie
 - Metapod: HA x2 + Tackle 
 
 > 1-3 HP: **Potion** before the next fight
