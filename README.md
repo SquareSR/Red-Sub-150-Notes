@@ -741,38 +741,35 @@ Boulder #4 *after droping through the hole*:
 - Gengar: **Slot 3 - X Special** + **EQ**
     - Hypnosis hit --> d10 Poke Flute (2 below HM02)
 - Golbat: **Blizz**
-    - Haze notes:
-        - TB x2 on Golbat if you miss Blizz into Haze
-        - 1-24 or 61+ HP: yolo
-        - 25-60 HP: use **X Speed**
-- EQ x3
+- Haunter: EQ
+- Arbok: EQ
+- Gengar: EQ
+
+> Blizz miss on Golbat into Haze:       
+> - Golbat: TB x2       
+> - if 1-24 or 61+ HP: spam EQ after Golbat       
+> - if 25-60 HP: use **X Speed** on Arbok and otherwise spam EQ       
 
 ## Lance
 
 HP      | ITEMS
 ------- | ---------------------------
-4-6     | Super Potion x2 + Potion x2
-8-26    | Super Potion x2 + Potion
-27-48   | Super Potion x2
-49-56   | Super Potion + Potion x2
-57-76   | Super Potion + Potion
-77-98   | Super Potion
-99-106  | Potion x2
-107-127 | Potion
+4-7     | Super Pot x2 + Pot x2
+8-26    | Super Pot x2 + Pot
+27-48   | Super Pot x2
+49-56   | Super Pot + Pot x2
+57-76   | Super Pot + Pot
+77-98   | Super Pot
+99-106  | Pot x2
+107-127 | Pot
 
 #### Menu before Lance:
-- **Use Slot 4 - Elixer** and heal to 128+ HP.
+- **Use Slot 4 - Elixer** 
+- **Heal to 128+ HP**
 - (**Slot 6 - Super Potion**; **Slot 9 - Potion** as needed)
-- **Save before Lance**
 
-> Does not matter which Dragonair you X Speed on. 
-
-#### Lance Gyarados Turn 2 if Hydro Pump Misses (and you need red bar)
-
-| HP      | Stall after Hydro Pump Miss Strategy |
-| ------- | ------------------------------------ |
-| 126-133 | d1 X Speed                           |
-| 134+    | EQ (or X Acc if you have 2 left)     |
+> If you need red bar to PB, be prepared to stall if Hydro Pump misses      
+> Stall with X Accuracy if you have 2 left (otherwise, use EQ)        
 
 #### Lance:
 - **Gyarados**:
@@ -781,7 +778,7 @@ HP      | ITEMS
 - Dragonair 1:
     - **Blizz**
 - Dragonair 2:
-    - **d1 X Speed** (if zero X Speeds, then use an X Special instead)
+    - **d1 X Speed** (if zero left, use an X Special instead)
     - **Blizz**
 - Aerodactyl:
     - **TB**
