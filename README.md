@@ -12,8 +12,8 @@
 - Get the **Antidote**
 
 #### Weedle Guy:
-- TW x2 + spam Tackle
-- 1-4 HP: Potion (1-6 on good pace)
+- Weedle [1-4 Potion, 1-6 on good pace]
+    - TW x2 + spam Tackle
 
 #### Forest Menu:
 - Swap Nido and Squirtle
@@ -23,16 +23,15 @@
 
 ## Pewter City
 
-Pewter Mart:
+#### Pewter Mart:
 - Buy **8 Potions**
 
 #### Brock:
-- Geodude:
+- Geodude [1-7 Potion]
    - Swap + Bubble spam
-   - 1-7 HP: Potion
-- Onix:
-   - Swap + Bubble spam (TW x2 if turn-1-Bide)
-   - 1-6 HP: Potion (1-13 after screech)
+- Onix [1-6 Potion; 1-13 after Screech]
+   - Swap + Bubble spam
+   - (TW x2 if turn-1-Bide)
 
 **Options**: Battle Style to **Set** before leaving Brock's gym
 
