@@ -37,8 +37,6 @@
 
 ## Route 3
 
-> Finish with Tackle if a range is missed.
-
 #### Bug Catcher 1
 - Caterpie:
 	- Leer + HA x2
@@ -51,11 +49,11 @@
 - Potion to 28+ HP
 
 #### Shorts Guy
-- Rat: Leer + HA x2
-   - 1-9 Potion; 1-15 if @-1 (or on good pace)
-- Ekans: Leer + HA x2
+- Rattata: [1-9 Potion; 1-15 if @-1 (or on good pace)]
+  - Leer + HA x2
+- Ekans: [1-3 HP: Potion; 1-4 if @-1; 1-5 @-2]
+  - Leer + HA x2
   - **Potion** immediately if hit by wrap at any HP
-  - 1-3 HP: Potion; 1-4 if @-1; 1-5 @-2
    
 > BC2 Weedle:      
 > If decent HA roll into SS, then Tackle Turn 2.      
