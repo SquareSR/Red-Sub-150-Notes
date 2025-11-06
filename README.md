@@ -17,8 +17,8 @@
 
 #### Forest Menu:
 - Swap Nido and Squirtle
-- 1-14 HP: **Potion**
-- 15+ HP: Don't Heal
+- 1-11 HP: **Potion**
+- 12+ HP: Don't Heal
 - **Antidote** (use or toss)
 
 ## Pewter City
