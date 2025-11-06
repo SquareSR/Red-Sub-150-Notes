@@ -304,7 +304,7 @@ Surge's Raichu    | Hit Self | w/gentleman candy
 &nbsp;            | **14**   | 15
 w/Growl           | **9**    | 10
 w/Screech         | **29**   | 31
-w/Screech & Growl | **17**   | 28
+w/Screech & Growl | **17**   | 18
 
 Exit gym, Cut the tree, get the Bike Voucher, and Dig out. 
 
