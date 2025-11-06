@@ -16,8 +16,8 @@
     - TW x2 + spam Tackle
 
 #### Forest Menu:
-- Swap Nido and Squirtle
-- 1-11 HP: **Potion**
+- Swap Squirtle and Nido
+- 1-11 HP: **Potion** Squirtle
 - 12+ HP: Don't Heal
 - **Antidote** (use or toss)
 
